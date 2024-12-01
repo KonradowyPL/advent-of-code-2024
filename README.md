@@ -2,6 +2,6 @@
 
 My solutions for advent of code 2024 in golang.
 
-[Day 1: Historian Hysteria](./tree/main/day01)
+[Day 1: Historian Hysteria](./day01/)
 
 
