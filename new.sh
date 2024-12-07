@@ -38,4 +38,4 @@ EOF
 
 # Create Go files with the template
 echo "$template" >part1.go
-echo "$template" >part2.go
+touch part2.go

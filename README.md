@@ -8,3 +8,4 @@ My solutions for advent of code 2024 in golang.
 [Day 4: Ceres Search](./day04/)<br>
 [Day 5: Print Queue](./day05/)<br>
 [Day 6: Guard Gallivant](./day06/)<br>
+[Day 7: Bridge Repair](./day07)<br>
