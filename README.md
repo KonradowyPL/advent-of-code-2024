@@ -7,3 +7,4 @@ My solutions for advent of code 2024 in golang.
 [Day 3: Mull It Over](./day03/)<br>
 [Day 4: Ceres Search](./day04/)<br>
 [Day 5: Print Queue](./day05/)<br>
+[Day 6: Guard Gallivant](./day06/)<br>
