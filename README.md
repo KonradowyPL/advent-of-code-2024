@@ -11,3 +11,8 @@ My solutions for advent of code 2024 in golang.
 [Day 7: Bridge Repair](./day07)<br>
 [Day 8: Resonant Collinearity](./day08)<br>
 [Day 9: Disk Fragmenter](./day09)<br>
+Day 10<br>
+Day 11<br>
+[Day 12: Garden Groups](./day12)<br>
+
+
